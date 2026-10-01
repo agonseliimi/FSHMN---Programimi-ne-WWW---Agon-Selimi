@@ -1,6 +1,3 @@
 # Pikënisja — Java II
-
-Lexo ../README.md. Krijo skedarët e kërkuar në folderin tënd JavaII; ky folder përmban vetëm skeletin ose të dhënat hyrëse. 
-
-Shëno para kodimit: hyrjet, daljet, një rast normal dhe dy raste kufitare.
-
+Kjo faqe permban thenje te bukura
+eshte e strukturar me 3 linqe celse filxhani dhe bileta kur klikimi i tyre shkon tek figurat e seciles qe permban nje thenje dhe nje histori te saj
