@@ -1,0 +1,15 @@
+body { 
+    font-family: system-ui, sans-serif; margin: 1rem; 
+}
+.members { 
+    min-width: 700px; padding: 1rem; border: 2px solid navy;
+ }
+a:focus { 
+    outline: none;
+ }
+
+ .container { display: flex-wrap; gap: 1rem; }
+
+ @media (min-width: 700px) {
+    
+}
